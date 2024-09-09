@@ -1,0 +1,17 @@
+
+/home/runner/work/exp-cyclic-load-control-nitk/exp-cyclic-load-control-nitk/experiment/simulation/js/plc.js
+   17:5   warning  'trip1G' is assigned a value but never used      no-unused-vars
+   18:5   warning  'trip2G' is assigned a value but never used      no-unused-vars
+   19:5   warning  'trip12G' is assigned a value but never used     no-unused-vars
+   22:5   warning  'load3Timer' is assigned a value but never used  no-unused-vars
+   23:5   warning  'load4Timer' is assigned a value but never used  no-unused-vars
+  220:9   warning  'container2' is assigned a value but never used  no-unused-vars
+  247:10  warning  'drawLine' is defined but never used             no-unused-vars
+  290:10  warning  'clearCanvas' is defined but never used          no-unused-vars
+  294:10  warning  'switchToggle' is defined but never used         no-unused-vars
+  474:36  warning  'acb' is defined but never used                  no-unused-vars
+  772:10  warning  'circuitStatus' is defined but never used        no-unused-vars
+  783:10  warning  'toggleTip' is defined but never used            no-unused-vars
+
+✖ 12 problems (0 errors, 12 warnings)
+
